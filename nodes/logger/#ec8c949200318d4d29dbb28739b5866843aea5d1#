@@ -1,0 +1,6 @@
+#include "Logger.hh"
+
+Logger::Logger(std::filesystem::path logPath)
+{
+    
+}
